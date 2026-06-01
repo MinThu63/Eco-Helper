@@ -160,13 +160,9 @@ Open your bot in Telegram, send `/start`, and snap a photo!
 ---
 
 ## Screenshots
+<img width="1818" height="1499" alt="image" src="https://github.com/user-attachments/assets/fbda1c08-7526-4799-86f7-7a8d12b4e7b1" />
 
-> *Add screenshots of your bot conversations here*
-
-| Image Analysis | Stats Dashboard | Leaderboard |
-|:-:|:-:|:-:|
-| ![analysis](screenshots/analysis.png) | ![stats](screenshots/stats.png) | ![leaderboard](screenshots/leaderboard.png) |
-
+<img width="1826" height="760" alt="image" src="https://github.com/user-attachments/assets/a2b5b205-f26d-4d25-a76a-1a7bab4893d0" />
 ---
 
 ## Roadmap
